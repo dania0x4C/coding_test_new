@@ -1,1 +1,1 @@
-# coding_test_new
+# 알고리즘 공부를 위해 새롭게 만든 REPO
